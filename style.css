@@ -1,0 +1,14 @@
+.flexcolumn {
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+}
+
+.flexrow {
+    display: flex;
+    flex: auto;
+}
+
+button {
+    font-size: 80px;
+}
